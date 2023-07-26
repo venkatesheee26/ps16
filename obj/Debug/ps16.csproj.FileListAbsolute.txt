@@ -1,0 +1,8 @@
+D:\ps\ps16\ps16\bin\Debug\ps16.exe.config
+D:\ps\ps16\ps16\bin\Debug\ps16.exe
+D:\ps\ps16\ps16\bin\Debug\ps16.pdb
+D:\ps\ps16\ps16\obj\Debug\ps16.csproj.AssemblyReference.cache
+D:\ps\ps16\ps16\obj\Debug\ps16.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps16\ps16\obj\Debug\ps16.csproj.CoreCompileInputs.cache
+D:\ps\ps16\ps16\obj\Debug\ps16.exe
+D:\ps\ps16\ps16\obj\Debug\ps16.pdb
